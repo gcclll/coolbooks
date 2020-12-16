@@ -19,7 +19,7 @@ from recommonmark.parser import CommonMarkParser
 
 # -- Project information -----------------------------------------------------
 
-project = '若叶知秋-技术文档'
+project = '若叶知秋'
 copyright = '2020, Zhicheng Lee'
 author = 'Zhicheng Lee'
 
